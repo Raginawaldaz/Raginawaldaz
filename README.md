@@ -1,10 +1,11 @@
 <div align="center">
   <h1>👋 Hi there, I'm Raginawaldaz</h1>
-  <p>🚀 Developer & Engineer | Exploring <b>AI4S (AI for Science)</b> & Deep Learning</p>
+  <p>🎓 <b>B.Eng. in Artificial Intelligence</b> | Exploring <b>AI4S (AI for Science)</b> & Deep Learning</p>
   
   <a href="mailto:SanFrancis@duck.com">
     <img src="https://img.shields.io/badge/Email-SanFrancis%40duck.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
+  <img src="https://img.shields.io/badge/Major-Artificial%20Intelligence-blueviolet?style=flat-square" alt="Major Badge" />
   <img src="https://img.shields.io/badge/Focus-AI4S-brightgreen?style=flat-square" alt="Focus Badge" />
 </div>
 
@@ -12,6 +13,7 @@
 
 ### 🔬 About Me
 
+- 🎓 **Background**: B.Eng. in Artificial Intelligence
 - 🔭 **Current Focus**: Scientific Computing & AI4S (AI for Science) projects
 - 🌱 **Learning**: Deep Learning architectures & advanced algorithm optimization
 - 👯 **Open to Collaborate**: Python-based scientific research & open-source tools
