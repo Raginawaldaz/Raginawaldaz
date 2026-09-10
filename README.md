@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi there, I'm Raginawaldaz</h1>
-  <p>🎓 <b>B.Eng. in Artificial Intelligence</b> | Exploring <b>AI4S (AI for Science)</b> & Deep Learning</p>
+  <p> <b>B.Eng. in Artificial Intelligence</b> | Exploring <b>AI4S (AI for Science)</b> & Deep Learning</p>
   
   <a href="mailto:SanFrancis@duck.com">
     <img src="https://img.shields.io/badge/Email-SanFrancis%40duck.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
