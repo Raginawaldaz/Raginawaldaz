@@ -3,7 +3,7 @@
   <p> <b>B.Eng. in Artificial Intelligence</b> | Exploring <b>AI4S (AI for Science)</b> & Deep Learning</p>
   
   <a href="mailto:neuron-thus-glove@duck.com">
-    <img src="https://img.shields.io/badge/Email-neuron-thus-glove%40duck.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-neuron--thus--glove%40duck.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   <img src="https://img.shields.io/badge/Major-Artificial%20Intelligence-blueviolet?style=flat-square" alt="Major Badge" />
   <img src="https://img.shields.io/badge/Focus-AI4S-brightgreen?style=flat-square" alt="Focus Badge" />
