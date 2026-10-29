@@ -35,9 +35,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- 使用稳定的镜像节点，防止 403 频率限制导致图片破损 -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Raginawaldaz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Raginawaldaz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- github-readme-stats-fast 返回 402；改用社区维护的 github-stats-extended -->
+  <img src="https://github-stats-extended.vercel.app/api?username=Raginawaldaz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Raginawaldaz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
